@@ -376,7 +376,7 @@ of(1,2,3,4,2)
 
 ### single
 
-Just like `find` operator but emits an error if more than one value is found or none is emitted fomr the source.
+Just like `find` operator but emits an error if more than one value is found or none is emitted from the source.
 
 ```js
 import { of, pipe } from 'rxjs';
